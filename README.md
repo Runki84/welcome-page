@@ -120,4 +120,4 @@
 
 
 # Моя статистика: 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Stuksus&show_icons=true&&hide=issues,contribs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Runki84&show_icons=true&&hide=issues,contribs)
