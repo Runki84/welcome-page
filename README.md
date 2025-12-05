@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Runki84&style=flat-square&color=brightgreen)
 
-""" # Мое резюме:
+<!-- # Мое резюме:
  - [Резюме]()
 
 # Опыт работы:
@@ -117,7 +117,7 @@
 </table>
 </table>
 </details>
-"""
+-->
 
 # Моя статистика: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Runki84&show_icons=true&&hide=issues,contribs)
