@@ -1,6 +1,99 @@
 
 ![](https://komarev.com/ghpvc/?username=Runki84&style=flat-square&color=brightgreen)
-
+<h1>Реестр проектов</h1>
+<table>
+ <caption>
+    Реестр проектов Data Science/Data Analists
+  </caption>
+ <thead>
+  <tr>
+   <th scope="col">Имя проекта</th>
+   <th scope="col">Тип</th>
+   <th scope="col">Стэк</th>
+   <th scope="col">Описание</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+  <tr>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+   <th scope="row"></th>
+  </tr>
+ </tbody>
+</table>
 <!-- # Мое резюме:
  - [Резюме]()
 
@@ -117,7 +210,8 @@
 </table>
 </table>
 </details>
--->
+
 
 # Моя статистика: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Runki84&show_icons=true&&hide=issues,contribs)
+-->
